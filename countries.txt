@@ -1,0 +1,41 @@
+Russland - Russia
+Ukraine - Ukraine
+Frankreich - France
+Spanien - Spain
+Schweden - Sweden
+Deutschland - Germany
+Finnland - Finland
+Norwegen - Norway
+Polen - Poland
+Italien - Italy
+Vereinigtes Königreich - United Kingdom
+Rumänien - Romania
+Weißrussland - Belarus
+Kasachstan - Kazakhstan
+Griechenland - Greece
+Bulgarien - Bulgaria
+Island - Island
+Ungarn - Hungary
+Portugal - Portugal
+Serbien - Serbia
+Österreich - Austria
+Tschechien - Czechia
+Irland - Ireland
+Litauen - Lithuania
+Lettland - Latvia
+Kroatien - Croatia
+Bosnien und Herzegowina - Bosnia and Herzegovina
+Slowakei - Slovakia
+Estland - Estonia
+Dänemark - Denmark
+Niederlande - Netherlands
+Schweiz - Switzerland
+Moldau - Moldova
+Belgien - Belgium
+Albanien - Albania
+Nordmazedonien - North Macedonia
+Türkei - Turkey
+Slowenien - Slovenia
+Montenegro - Montenegro
+Kosovo - Kosovo
+Luxemburg - Luxembourg
